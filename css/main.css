@@ -17,7 +17,6 @@ body{
 }
 /* REM values to target root element 1REM = 16px */
 
-
 /* Navigation section styling */
 .navbar {
   background: var(--mainWhite);
@@ -48,3 +47,5 @@ body{
 .nav-icon:hover {
   color: var(--mainBlack);
 }
+
+/* Header section with hero image */
