@@ -16,7 +16,14 @@ body{
   background: var(--mainWhite);
 }
 /* REM values to target root element 1REM = 16px */
-
+/* section title */
+.section-title--special {
+  background: var(--transparentBlue);
+  text-transform: uppercase;
+  color: var(--mainWhite);
+  padding: 0.5rem 2rem;
+  clip-path: polygon(10% 0, 100% 0, 90% 100%, 0 100%);
+}
 /* Navigation section styling */
 .navbar {
   background: var(--mainWhite);
