@@ -109,3 +109,19 @@ body{
     font-size: 3rem;
   }
 }
+/* skills section */
+.skills-icon {
+  font-size: 3rem;
+  color: var(--mainYellow);
+  background: var(--mainGrey);
+  text-decoration: none !important;
+}
+.skills-icon:hover{
+  color: var(--mainYellow);
+}
+.skills-underline{
+  width: 4rem;
+  height: 0.3rem;
+  background: var(--mainBlue);
+  margin: 1rem auto;
+}
